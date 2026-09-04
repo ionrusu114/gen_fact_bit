@@ -1,0 +1,27 @@
+# Private data. Real config lives in the user config dir; only config.example.json is committed.
+config.json
+.env
+.env.*
+
+# Generated invoices
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local tooling
+.omc/
+*.png

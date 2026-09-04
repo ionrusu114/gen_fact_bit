@@ -1,0 +1,41 @@
+{
+  "out_dir": "",
+  "prefix_fisier": "Factura",
+  "ultimul_numar": 1000,
+  "serie": "ABC",
+  "titlu": "FACTURĂ FISCALĂ",
+  "scop": "SERVICII DEZVOLTARE SOFTWARE",
+  "serviciu": "Servicii de realizare a soft-ului la comandă",
+  "um": "Serviciu",
+  "cantitate": 1,
+  "tva_procent": 0,
+  "furnizor": [
+    "Antreprenor Independent „POPESCU ION”",
+    "IDNO / Cod Fiscal: 1000000000000",
+    "Email: exemplu@exemplu.com",
+    "Telefon: 060000000",
+    "Țara: Republica Moldova"
+  ],
+  "client": [
+    "EXEMPLU SRL",
+    "CUI: 12345678",
+    "Nr. Reg. Com.: J2025000000000",
+    "EUID: ROONRC.J2025000000000",
+    "Adresă: Str. Exemplu 1, Bl. 1, Sc. A, Et. 1, Ap. 1",
+    "Loc. București, Sector 1, Cod 010000, România"
+  ],
+  "plata": [
+    "Titular Cont: Antreprenor Independent Popescu Ion",
+    "Banca: BC „EXEMPLU” SA",
+    "Adresa Băncii: str. Exemplu 1, mun. Chișinău",
+    "IBAN: MD00XX000000000000000000",
+    "Cod SWIFT / BIC: XXXXMD2X",
+    "Valută cont: EUR",
+    "Cont plătitor (Client): RO00XXXX0000000000000000"
+  ],
+  "mentiuni": [
+    "Factură emisă pentru servicii de dezvoltare web prestate în baza contractului comercial B2B.",
+    "Conform legislației în vigoare, factura este valabilă fără semnătură și ștampilă."
+  ],
+  "multumire": "Vă mulțumim pentru colaborare!"
+}
