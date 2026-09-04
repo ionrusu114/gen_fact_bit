@@ -10,7 +10,7 @@ readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE", "factura/fonts/LICENSE-fonts.txt"]
 requires-python = ">=3.11"
-authors = [{ name = "Ion Rusu" }]
+authors = [{ name = "Ion Rusu Discultu" }]
 keywords = ["invoice", "pdf", "cli", "reportlab"]
 classifiers = [
     "Development Status :: 4 - Beta",
